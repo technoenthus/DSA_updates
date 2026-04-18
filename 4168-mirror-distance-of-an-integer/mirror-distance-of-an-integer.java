@@ -1,4 +1,3 @@
-// Added using AI
 class Solution {
     private int revnum(int a) {
         if (a / 10 == 0) return a ;
